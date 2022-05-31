@@ -3,7 +3,7 @@
 2. Dựng api mượn sách
 3. Viết test code *chưa hoàn thành
 4. Viết cronjob bắn webhook khi sách gần đến hạn phải trả (kịch bản báo người mượn trả sách) về https://webhook.site/ *chưa hoàn thành
-5. Tạo docker image 
+5. Tạo docker image *chưa connect được mongodb docker
 6. Tối ưu docker image *chưa hoàn thành
 7. Viết Ci *chưa hoàn thành
 
