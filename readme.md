@@ -10,8 +10,8 @@
 
 # Yêu cầu thêm (nice to have)
 1. Sử dụng Koa js
-2. Sử dụng bulljs để chạy job
+2. Sử dụng bulljs để chạy job *chưa hoàn thành
 3. sử dụng typescripts
-4. Sử dụng jest để test cho các api đã viết
+4. Sử dụng jest để test cho các api đã viết *chưa hoàn thành
 5. Sử dụng mongodb với mongoose
-6. viết grpc service cho CRUD sách
+6. viết grpc service cho CRUD sách *chưa hoàn thành
